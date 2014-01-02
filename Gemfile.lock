@@ -108,6 +108,7 @@ PLATFORMS
 
 DEPENDENCIES
   coffee-rails (= 4.0.1)
+  i18n
   jbuilder (= 1.0.2)
   jquery-rails (= 3.0.4)
   rails (= 4.0.0)
